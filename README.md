@@ -1,3 +1,2 @@
-# Nick-sPizza-Pasta
 
-![My image](https://raw.githubusercontent.com/mhaliti/Nick-sPizza-Pasta/master/Menu.PNG)
+![My image](https://raw.githubusercontent.com/mhaliti/Nick-sPizza-Pasta/Menu.PNG)
